@@ -1,4 +1,4 @@
-# This is the default format.
+﻿# This is the default format.
 # For more see: http://jekyllrb.com/docs/permalinks/
 permalink: /:title
 # https://help.github.com/articles/migrating-your-pages-site-from-maruku
@@ -17,20 +17,20 @@ tags_path : tags.html
 #BASE_PATH : http://blog.ankanbiswas.in/uno-dbyll
 BASE_PATH : http://goileo.top
 
-description : 深沉的意志，恢宏的想象和炽热的情感
-title : Goileo Lee
+description : 倚窗闲听雨，卷帘淡看花
+title : Jason Zhang
 logo : /assets/images/avatar.jpg
 #cover : /assets/images/background-cover.jpg
 
 
 author:
-  name: Goileo Lee
+  name: Jason Zhang
   maxim: Stay hungry,Stay foolish
   role: Jekyll Theme
-  email: goileolee@foxmail.com
-  github: goileolee
-  twitter: goileolee
-  facebook: goileolee
+  email: easyfuture666@163.com
+  github: Jason Zhang
+  twitter: Jason Zhang
+  facebook: Jason Zhang
   googleplus: +goileolee
-  bio: "Hi, 我是goileolee"
+  bio: "Hi, 我是Jason Zhang"
   uno-dbyll: /assets/images/avatar.jpg
