@@ -1,0 +1,1 @@
+[一个Demo带你彻底掌握View的滑动冲突](http://note.youdao.com/noteshare?id=356cd2c620d977ee2aaf47c11caf0077&sub=1D57444A9DA4424A876C9394D3054EFA)
