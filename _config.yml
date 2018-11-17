@@ -17,20 +17,20 @@ tags_path : tags.html
 #BASE_PATH : http://blog.ankanbiswas.in/uno-dbyll
 BASE_PATH : http://goileo.top
 
-description : 抬哼哒，花田家的小霸王掉进屎坑里啦！
-title : Bawang Xiao
-logo : /assets/images/xiaobawang.jpg
+description : 倚窗闲听雨，卷帘淡看花
+title : Jason Zhang
+logo : /assets/images/avatar.jpg
 #cover : /assets/images/background-cover.jpg
 
 
 author:
-  name: Bawang Xiao
+  name: Jason Zhang
   maxim: Stay hungry,Stay foolish
   role: Jekyll Theme
   email: easyfuture666@163.com
-  github: Bawang Xiao
-  twitter: Bawang Xiao
-  facebook: Bawang Xiao
+  github: Jason Zhang
+  twitter: Jason Zhang
+  facebook: Jason Zhang
   googleplus: +goileolee
-  bio: "Hi, 我是Bawang Xiao"
+  bio: "Hi, 我是Jason Zhang"
   uno-dbyll: /assets/images/avatar.jpg
